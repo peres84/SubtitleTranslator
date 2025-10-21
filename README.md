@@ -4,7 +4,7 @@ Watch your favorite shows in any language! A powerful browser extension that tra
 
 ## Try It Now!
 
-**No installation needed** - Just visit [subtitletranslator.netlify.app](https://subtitletranslator.netlify.app/) to get started!
+**Just visit** [subtitletranslator.netlify.app](https://subtitletranslator.netlify.app/) to get started!
 
 ## Why Use This Extension?
 
